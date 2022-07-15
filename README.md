@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Yes, This is Datalytika's Page too</h1>
 <h3 align="center">This page is dedicated to research reports. Research-As-A-Service</h3>
 
-- 🔭 We're currently mostly doing assignments in Real Estate. Tasks mostly range from **modeling, pricing, market and competitor analysis**.
+- 🔭 We're currently mostly doing assignments in **Real Estate**. Tasks mostly range from **modeling, pricing, market and competitor analysis**. Datalytika's analysts write **business cases**, **case studies**, **market status reports**, **market research reports**, **pitchdecks**, **financial models and projections** and **deal origination and evaluation reports** in the fields of **Finance**, **StartUps**, **Tech** and **Data**.
 
 - 🌱 We're currently onboarding analysts to **Datalytika's network.**
 
