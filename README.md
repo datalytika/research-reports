@@ -3,11 +3,95 @@
 
 - 🔭 We're currently mostly doing assignments in **Real Estate**. Tasks mostly range from **modeling, pricing, market and competitor analysis**. Datalytika's analysts write **business cases**, **case studies**, **market status reports**, **market research reports**, **pitchdecks**, **financial models and projections** and **deal origination and evaluation reports** in the fields of **Finance**, **StartUps**, **Tech** and **Data**.
 
+---
+
+## ⚡ **On this page:**
+- Financial Models
+- Project Proposals
+
+---
+
+## ⚡ **Financial Models**
+
+<p align="center">
+  <img width="70%" height="70%" src="https://i.imgur.com/KdsJ9gI.jpg" alt="Financial Models">
+</p>
+
+  ### **Financial forecasts, metrics and charts for investor conversations**
+
+    - Metrics, charts & projections in less than 30 minutes
+    - No formulas or financial know-how required; access your models & help when you need it
+    - Share models with stakeholders and download to Excel or PDF
+
+      #### **The main sections we include in our financial model (from top to bottom) are:**
+
+        1. Assumptions and drivers
+        2. Income statement
+        3. Balance sheet
+        4. Cash flow statement
+        5. Supporting schedules
+        6. Valuation
+        7. Sensitivity analysis
+        8. Charts and graphs
+
+---
+
+## ⚡ **Project Proposals**
+
+<p align="center">
+  <img width="70%" height="70%" src="https://i.imgur.com/cJBnLkm.jpg" alt="Project Proposals">
+</p>
+
+- We already have the data you need in our databases (Likelihood 99.5%)
+- Our analysts will draft the project proposal from scratch
+- We'll do the visualizations and infographics
+- Easy and just spend from a minimum of $150 for simple projects
+
+ ### **Types of project proposals**
+
+  1. Solicited Project Proposal: A solicited project proposal is sent as a response to a request for proposal (RFP). Here you’ll need to adhere to the RFP guidelines of the project owner.
+  2. Unsolicited Project Proposal: You can send project proposals without having received a request for proposal. This can happen in open bids for construction projects, where a project owner receives unsolicited project proposals from many contractors.
+  3. Informal Project Proposal: This type of project proposal is created when a client asks for an informal proposal, without an RFP.
+  4. Renewal Project Proposal: You can use a renewal project proposal when you are reaching out to past customers. The advantage is that you can highlight past positive results and future benefits.
+  5. Continuation Project Proposal: Sent to investors and stakeholders to communicate project progress.
+  6. Supplemental Project Proposal: This proposal is sent to investors to ask for additional resources during the project execution phase.
+
+ ### **Our Format**
+  
+ #### 1. EXECUTIVE SUMMARY
+ #### 2. BACKGROUND
+ - HISTORY
+ - REQUIREMENTS
+ - SOLUTION
+ #### 3. PROPOSAL
+ - 3.1	VISION AND GOALS
+ - 3.2	DELIVERABLES
+ - 3.3	TIMEFRAME
+ - 3.4	RESOURCES
+ - 3.5	BUDGET
+ - 3.6	OWNERSHIP
+ - 3.7	REPORTING
+ - 3.8	RISKS & ISSUES
+ - 3.9	IMPLICATIONS
+ - 3.10	SUCCESS CRITERIA
+ - 3.11	AUTHORIZATION
+ #### 4. APPENDIX
+- 4.1	SUPPORTING DOCUMENTATION
+
+### Minimum 24 hour turnaround
+- Small projects can be done in 24 hours
+- Big projects - discussable
+- Pay as low as $150 depending on deliverables
+   
+---
+
+## ⚡ **Finally**
+
 - 🌱 We're currently onboarding analysts to **Datalytika's network.**
 
-- 👯 This page is currently maintained by [Joseph Lweya](https://twitter.com/lweyajoe)
+- 👯 This page is currently maintained by [Joseph Lweya](https://github.com/lweyajoe)
 
-- 👨‍💻 None of our client research projects are shared with the public. Reports are delivered in confidence. Reports appearing on this page are internally-driven projects. If you spot any data breach please immediately notify **admin@datalytika.org**
+- 👨‍💻 None of our client research projects are shared with the public. Reports are delivered in confidence. Sample reports appearing on this page are internally-driven projects. If you spot any data breach please immediately notify **admin@datalytika.org**
 
 - 📝 We regularly write articles and publish case studies in [Datalytika's Blog](https://datalytika.org/blog.html)
 
