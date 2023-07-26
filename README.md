@@ -91,13 +91,13 @@
 
 - 👯 This page is currently maintained by [Joseph Lweya](https://github.com/lweyajoe)
 
-- 👨‍💻 None of our client research projects are shared with the public. Reports are delivered in confidence. Sample reports appearing on this page are internally-driven projects. If you spot any data breach please immediately notify **admin@datalytika.org**
+- 👨‍💻 None of our client research projects are shared with the public. Reports are delivered in confidence. Sample reports appearing on this page are internally-driven projects. If you spot any data breach please immediately notify **admin@datalytika.net**
 
-- 📝 We regularly write articles and publish case studies in [Datalytika's Blog](https://datalytika.org/blog.html)
+- 📝 We regularly write articles and publish case studies in [Datalytika's Blog](https://datalytika.net/blog.html)
 
 - 💬 Ask us for any research reports done in **SPSS**, **Python**, **R**, and **MsExcel**.
 
-- 📫 How to reach us: Best way - **https://datalytika.org/quote.html** . Alternatively, send an email. to **jlweya@datalytika.org** to discuss deliverables with the **Head, Analytics and Research**.
+- 📫 How to reach us: Best way - **https://datalytika.net/quote.html** . Alternatively, send an email. to **joe@datalytika.net** to discuss deliverables with the **Head, Analytics and Research**.
 
 - ⚡ Fun fact: **We love deadlines ;)**
 
